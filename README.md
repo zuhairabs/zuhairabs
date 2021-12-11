@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zuhairabs.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://zuhairabs.github.io"><img width="80%" src="./assets/gh-header.png" /></a></p>
 
 <br />
 
@@ -10,8 +10,9 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 - ❤️ I love writing JavaScript, and building fun experiments
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/zuhairabs/zuhairabs/issues)
 
+- 🔍 Just Search ```zuhairabs``` on Google
 
 
 **Languages and Tools:**  
@@ -30,7 +31,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 
 <a href="https://github.com/zuhairabs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuhairabs&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuhairabs&repo=kccemsr&theme=buefy" />
 </a>
 <a href="https://github.com/zuhairabs/zuhairabs.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuhairabs&repo=zuhairabs.github.io&theme=buefy" />
@@ -39,9 +40,29 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://twitter.com/zuhairabs">
-  <img align="right" alt="Zuhair Abbas | Twitter" width="21px" src="https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/assets/twitter.svg" />
+<div align="center">
+
+<h2>Summary</h2>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Summary card](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1 repos per language](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zuhairabs/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/zuhairabs/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/zuhairabs)
+<br> <br>
+
+</div>
+
+--------------------------------------------------------------------------
+
+<p align="center">
+
+<a href="https://github.com/zuhairabs/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=zuhairabs&layout=wide&show_reply=off&show_retweet=off" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Zuhair Abbas | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/assets/codesandbox.svg" />
-</a>
+
+</p> 
