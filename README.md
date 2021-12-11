@@ -46,9 +46,11 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Summary card](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![1 repos per language](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/zuhairabs/zuhairabs/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairabs&theme=dracula)
+[![1 repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhairabs&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuhairabs&theme=dracula)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhairabs&theme=dracula)
+[![Productive time SVG](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuhairabs&theme=dracula)
 
 <h2>Connect with me!</h2>
  
