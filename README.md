@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zuhairabs.github.io"><img width="80%" src="./assets/gh-header.png" /></a></p>
+<p align="center"><a href="https://zuhairabs.github.io"><img width="90%" src="./assets/gh-header.png" /></a></p>
 
 <br />
 
@@ -47,10 +47,10 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[![Summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairabs&theme=dracula)
-[![1 repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhairabs&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuhairabs&theme=dracula)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhairabs&theme=dracula)
-[![Productive time SVG](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuhairabs&theme=dracula)
+![Summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairabs&theme=dracula)
+![1 repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhairabs&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuhairabs&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhairabs&theme=dracula)
+![Productive time SVG](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuhairabs&theme=dracula)
 
 <h2>Connect with me!</h2>
  
